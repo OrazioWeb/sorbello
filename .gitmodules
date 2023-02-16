@@ -1,0 +1,4 @@
+[submodule "ABC-Strategie-GitHub/abc_x_sorbello"]
+	path = ABC-Strategie-GitHub/abc_x_sorbello
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_sorbello.git
+	branch = 16.0
